@@ -32,7 +32,11 @@ html {
   -ms-text-size-adjust: 100%;
 }
 body {
+  line-height: 26px;
   margin: 0;
+}
+li {
+  margin-top:16px;
 }
 a:focus {
   outline: thin dotted;
